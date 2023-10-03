@@ -31,7 +31,8 @@ Angelo Mendes é aluno de doutorado do programa de Pós-Graduação em Ciências
 # Estrutura do Curso
 
 - **Parte 1:** Introdução à grafos
-- **Parte 2:** Motivação em modelar dados por meio de grafos- Parte 3: Graph Neural Networks
+- **Parte 2:** Motivação em modelar dados por meio de grafos
+- **Parte 3:** Graph Neural Networks
 - **Parte 4:** Contextos de exploração (Aplicações)
 - **Prática 1:** 
 - **Prática 2:** Unsupervised Graph Neural Networks para detectar hit-songs
