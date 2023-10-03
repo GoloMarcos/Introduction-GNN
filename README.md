@@ -26,7 +26,9 @@ Angelo Mendes é aluno de doutorado do programa de Pós-Graduação em Ciências
 - Linkedin: https://www.linkedin.com/in/angelo-mendes/
 - Email: angelo.mendes@usp.br
   
-# Ementa
+# Objetivo
+
+Prover aos estudantes conhecimento dos conceitos básicos da área de modelagem de dados por meio de grafos homogênos e heterogêneos, da aplicação de _graph neural networks_, bem como apresentar direções para aprofundar o conhecimento conforme a necessidade de cada participante. Ensinar ferramentas básicas para leitura, pré-processamento e modelagem de dados visando oferecer a capacidade de lidar com diferentes tarefas de aprendizado de máquina para grafos. 
 
 # Estrutura do Curso
 
