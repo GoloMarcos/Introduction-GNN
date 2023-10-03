@@ -47,8 +47,8 @@ Prover aos estudantes conhecimento dos conceitos básicos da área de modelagem 
 
 [3] Silva, A. C. M. D., Gôlo, M. P. S., & Marcacini, R. M. (2022). Unsupervised heterogeneous graph neural network for hit song prediction through one-class learning. Anais do X Symposium on Knowledge Discovery, Mining and Learning.
 
-[4] C. Shi, Heterogeneous Graph Neural Networks. Singapore: Springer Singapore, 2022
+[4] C. Shi, Heterogeneous Graph Neural Networks. Singapore: Springer Singapore, 2022.
 
-[5] CHEN, F.; WANG, Y.-C.; WANG, B.; KUO, C.-C. J. Graph representation learning: a survey. APSIPA Transactions on Signal and Information Processing, Cambridge University Press. 2020
+[5] CHEN, F.; WANG, Y.-C.; WANG, B.; KUO, C.-C. J. Graph representation learning: a survey. APSIPA Transactions on Signal and Information Processing, Cambridge University Press. 2020.
 
 [6] CAI, H.; ZHENG, V. W.; CHANG, K. A comprehensive survey of graph embedding: Problems, techniques, and applications. IEEE Transactions on Knowledge & Data Engineering. 2018.
