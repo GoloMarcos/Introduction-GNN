@@ -10,7 +10,7 @@ O responsável pelo curso é o professor Doutor do ICMC/USP Ricardo Marcondes Ma
 
 Marcos Gôlo é mestre em ciência da computação pelo Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo, campus de São Carlos. Marcos explorou o aprendizado de representação multimodal em dados textuais para o aprendizado de uma classe durante seu mestrado com trabalhos publicados em conferências nacionais e revistas internacionais. Além disso, Marcos obteve o prêmio de segunda melhor dissertação de mestrado no concurso de teses e dissertações do CSBC 2023. Atualmente, faz doutorado no mesmo local de seu mestrado e foi premiado com o Latin American Google PhD Fellowship para pesquisar sobre aprendizado de representação em grafos heterogêneos para o aprendizado de uma classe. Marcos tem interesse nas áreas de pesquisa de mineração de dados, mineração de textos, aprendizado de uma classe e aprendizado de representação em grafos. 
 
-<img src="/images/golo.jpg" width="300">
+<img src="/images/golo.jpg" width="200">
 
 - Lattes: http://lattes.cnpq.br/7402825146038143
 - Linkedin: https://www.linkedin.com/in/marcosgolo/
