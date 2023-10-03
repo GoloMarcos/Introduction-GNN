@@ -24,5 +24,7 @@ Marcos Gôlo é mestre em ciência da computação pelo Instituto de Ciências M
 # Bibliografia
 
 [1] Rossi, R. G. (2016). Classificaçao automática de textos por meio de aprendizado de máquina baseado em redes (Doctoral dissertation, Universidade de São Paulo).
+
 [2] Wu, Z., Pan, S., Chen, F., Long, G., Zhang, C., & Philip, S. Y. (2020). A comprehensive survey on graph neural networks. IEEE transactions on neural networks and learning systems, 32(1), 4-24.
+
 [3] Silva, A. C. M. D., Gôlo, M. P. S., & Marcacini, R. M. (2022). Unsupervised heterogeneous graph neural network for hit song prediction through one-class learning. Anais do X Symposium on Knowledge Discovery, Mining and Learning.
