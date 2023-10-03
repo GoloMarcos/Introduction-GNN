@@ -32,12 +32,12 @@ Prover aos estudantes conhecimento dos conceitos básicos da área de modelagem 
 
 # Estrutura do Curso
 
-- **Parte 1:** Introdução à grafos
-- **Parte 2:** Motivação em modelar dados por meio de grafos
-- **Parte 3:** Graph Neural Networks
-- **Parte 4:** Contextos de exploração (Aplicações)
-- **Prática 1:** 
-- **Prática 2:** Unsupervised Graph Neural Networks para detectar hit-songs
+- **Parte teórica 1:** Introdução à grafos
+- **Parte teórica 2:** Motivação em modelar dados por meio de grafos
+- **Parte teórica 3:** Graph Neural Networks
+- **Parte teórica 4:** Contextos de exploração (Aplicações)
+- **Parte prática 1:** 
+- **PArte prática 2:** Unsupervised Graph Neural Networks para detectar hit-songs
 
 # Bibliografia
 
