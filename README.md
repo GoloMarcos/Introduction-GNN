@@ -37,7 +37,7 @@ Prover aos estudantes conhecimento dos conceitos básicos da área de modelagem 
 - **Parte teórica 3:** Graph Neural Networks
 - **Parte teórica 4:** Contextos de exploração (Aplicações)
 - **Parte prática 1:** 
-- **PArte prática 2:** Unsupervised Graph Neural Networks para detectar hit-songs
+- **Parte prática 2:** Unsupervised Graph Neural Networks para detectar hit-songs
 
 # Bibliografia
 
