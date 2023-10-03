@@ -4,7 +4,7 @@
 
 # Ministrantes
 
-O responsável pelo curso é o professor Doutor do ICMC/USP Ricardo Marcondes Marcacini. Os ministrantes serão seus alunos de Doutorado Marcos Paulo Silva Gôlo e Angelo Cesar Mendes da Silva. 
+O responsável pelo curso é o professor Doutor do ICMC/USP **Ricardo Marcondes Marcacini**. Os ministrantes serão seus alunos de Doutorado Marcos Paulo Silva Gôlo e Angelo Cesar Mendes da Silva. 
 
 ## Marcos Gôlo
 
