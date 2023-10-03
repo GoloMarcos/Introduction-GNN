@@ -16,7 +16,7 @@ Marcos Gôlo é mestre em ciência da computação pelo Instituto de Ciências M
 - Linkedin: https://www.linkedin.com/in/marcosgolo/
 - Email: marcosgolo@usp.br
 
-## Angelo
+## Angelo Mendes
 
 Angelo Mendes é aluno de doutorado do programa de Pós-Graduação em Ciências de Computação e Matemática Computacional no Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo, ICMC-USP. Sua pesquisa está relacionada ao aprendizado de representações para dados musicais com aplicações em diversas tarefas na área de recuperação de informação musical. O uso de redes neurais em grafos compõe sua pesquisa como parte do processo de modelagem de características músicais, como áudio e letras, em grafos e sua inserção em um modelo de aprendizado para construção de representações capaz de lidar com diversas tarefas.
 
