@@ -25,7 +25,7 @@ Resumo angelo
 - Lattes: http://lattes.cnpq.br/9125845204227997
 - Linkedin: https://www.linkedin.com/in/angelo-mendes/
 - Email: angelo.mendes@usp.br
-- 
+  
 # Ementa
 
 # Estrutura do Curso
