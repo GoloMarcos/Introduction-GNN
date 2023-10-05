@@ -2,9 +2,18 @@
 
 # Resumo
 
-# Ministrantes
+O uso de redes neurais em grafos tem sido explorado em aplicações de aprendizado de máquina em diversas áreas como análise de redes sociais, química computacional, recomendações personalizadas e processamento de língua natural. A modelagem de dados sobre grafos é justificada pela possibilidade de utilizar múltiplas modalidades de características para construir uma representação com mais informação sobre dados, bem como incorporar informações sobre os relacionamentos dos dados na própria representação. Neste curso, apresentaremos técnicas para modelagem de dados estruturados e não estruturados sobre grafos, discutiremos sobre os benefícios deste tipo de modelagem e suas aplicações em aprendizado de máquina. Serão introduzidas os conceitos das GNNs, algumas variações como as GCNs e GATs, e demosntração de uso em aplicações práticas que irão reproduzir os tópicos abordados no curso.
 
+# Requisitos
+
+Por ser um curso de curta duração, apenas 5 horas, não iremos apresentar conceitos básicos sobre programação, linguagem Python e redes neurais. Os dois primeiros são imprescindíveis para completo entendimento do curso. Nós iremos trabalhar com dados em formatos de texto e áudio. Se isto é novo para você, pesquise sobre extração de características para estes tipos de dados para você ter noção de como estes dados podem ser representados, mas não se preocupe, pois vamos falar brevemente. 
+
+# Organização
+
+Este curso é oferecido pelo Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo - ICMC/USP, com organização do Laboratório de Inteligência Computacional - LABIC.
 O responsável pelo curso é o professor Doutor do ICMC/USP **Ricardo Marcondes Marcacini**. Os ministrantes serão seus alunos de Doutorado Marcos Paulo Silva Gôlo e Angelo Cesar Mendes da Silva. 
+
+# Ministrantes
 
 ## Marcos Gôlo
 
@@ -32,7 +41,7 @@ Prover aos estudantes conhecimento dos conceitos básicos da área de modelagem 
 
 # Estrutura do Curso
 
-- **Parte teórica 1:** Introdução à grafos
+- **Parte teórica 1:** Introdução aos grafos
 - **Parte teórica 2:** Motivação em modelar dados por meio de grafos
 - **Parte teórica 3:** Graph Neural Networks
 - **Parte teórica 4:** Contextos de exploração (Aplicações)
