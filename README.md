@@ -48,6 +48,10 @@ Prover aos estudantes conhecimento dos conceitos básicos da área de modelagem 
 - **Parte prática 1:** 
 - **Parte prática 2:** Unsupervised Graph Neural Networks para detectar hit-songs
 
+# Inscrição (até 18/11/23)
+
+link para inscrição.
+
 # Bibliografia
 
 [1] Rossi, R. G. (2016). Classificaçao automática de textos por meio de aprendizado de máquina baseado em redes (Doctoral dissertation, Universidade de São Paulo).
