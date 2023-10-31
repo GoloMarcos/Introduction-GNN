@@ -2,11 +2,16 @@
 
 # Resumo
 
-O uso de redes neurais em grafos tem sido explorado em aplicações de aprendizado de máquina em diversas áreas como análise de redes sociais, química computacional, recomendações personalizadas e processamento de língua natural. A modelagem de dados sobre grafos é justificada pela possibilidade de utilizar múltiplas modalidades de características para construir uma representação com mais informação sobre dados, bem como incorporar informações sobre os relacionamentos dos dados na própria representação. Neste curso, apresentaremos técnicas para modelagem de dados estruturados e não estruturados sobre grafos, discutiremos sobre os benefícios deste tipo de modelagem e suas aplicações em aprendizado de máquina. Serão introduzidas os conceitos das GNNs, algumas variações como as GCNs e GATs, e demonstração de uso em aplicações práticas que irão reproduzir os tópicos abordados no curso.
+O uso de redes neurais em grafos tem sido explorado em aplicações de aprendizado de máquina em diversas áreas como análise de redes sociais, química computacional, recomendações personalizadas e processamento de língua natural. A modelagem de dados sobre grafos é justificada pela possibilidade de utilizar múltiplas modalidades de características para construir uma representação com mais informação sobre dados, bem como incorporar informações sobre os relacionamentos dos dados na própria representação. Neste curso, apresentaremos técnicas para modelagem de dados estruturados e não estruturados sobre grafos, discutiremos sobre os benefícios deste tipo de modelagem e suas aplicações em aprendizado de máquina. Serão introduzidos os conceitos das GNNs, algumas variações como as GCNs e GATs, e demonstração em aplicações práticas que reproduzirão os tópicos abordados no curso.
 
 # Requisitos
 
-Por ser um curso de curta duração, apenas 5 horas, não iremos apresentar conceitos básicos sobre programação, linguagem Python e redes neurais. Os dois primeiros são imprescindíveis para completo entendimento do curso. Nós iremos trabalhar com dados em formatos de texto e áudio. Se isto é novo para você, pesquise sobre extração de características para estes tipos de dados para você ter noção de como estes dados podem ser representados, mas não se preocupe, pois vamos falar brevemente. 
+Por ser um curso de curta duração, apenas 5 horas, não apresentaremos conceitos básicos sobre programação, linguagem Python, redes neurais e aprendizado de máquina. Os dois primeiros são imprescindíveis para completo entendimento do curso. Nós trabalharemos com dados em formatos de texto e áudio nas atividades práticas. Se isto é novo para você, pesquise sobre extração de características para estes tipos de dados para você ter noção de como estes dados podem ser representados, mas não se preocupe, pois falaremos brevemente. 
+
+Seguem algumas indicações de materiais que podem ser estudados até o curso:
+- [Aula sobre redes neurais](https://www.youtube.com/watch?v=rpnEdkvSYj4)
+- [Curso sobre aprendizado de máquina](https://www.youtube.com/watch?v=l2ALoe6Yfss&list=PL-K8PmZILhr0w0FH1gZrknk9CLRqXKo-Z&index=1) (focar nos conceitos básicos, tipos de dados, classificação, regressão e agrupamento)
+- [Aula sobre programação em Python](https://www.youtube.com/watch?v=CEkHlfVH_Ew) (do zero ao básico de POO; conteúdo imprescindível para compreensão do curso)
 
 # Organização
 
@@ -24,6 +29,7 @@ Marcos Gôlo é mestre em ciência da computação pelo Instituto de Ciências M
 - Lattes: http://lattes.cnpq.br/7402825146038143
 - Linkedin: https://www.linkedin.com/in/marcosgolo/
 - Email: marcosgolo@usp.br
+- Scholar: https://scholar.google.com.br/citations?user=CeyvhM8AAAAJ&hl=pt-BR
 
 ## Angelo Mendes
 
@@ -34,6 +40,7 @@ Angelo Mendes é aluno de doutorado do programa de Pós-Graduação em Ciências
 - Lattes: http://lattes.cnpq.br/9125845204227997
 - Linkedin: https://www.linkedin.com/in/angelo-mendes/
 - Email: angelo.mendes@usp.br
+- Scholar: https://scholar.google.com.br/citations?user=uKaUK48AAAAJ&hl=pt-BR
   
 # Objetivo
 
@@ -42,26 +49,28 @@ Prover aos estudantes conhecimento dos conceitos básicos da área de modelagem 
 # Estrutura do Curso
 
 - **Parte teórica 1:** Introdução aos grafos
-- **Parte teórica 2:** Motivação em modelar dados por meio de grafos
+- **Parte teórica 2:** Modelagem de dados em grafos
 - **Parte teórica 3:** Graph Neural Networks
 - **Parte teórica 4:** Contextos de exploração (Aplicações)
-- **Parte prática 1:** 
-- **Parte prática 2:** Unsupervised Graph Neural Networks para detectar hit-songs
+- **Parte prática 1:** Reconhecimento de emoções em músicas utilizando Graph Neural Networks
+- **Parte prática 2:** Graph Neural Networks não supervisionada para detectar hit-songs
 
 # Inscrição (até 18/11/23)
 
 link para inscrição.
 
+# Certificado
+
+O inscrito deverá participar no mínimo 75% da carga horária do curso para ter direito ao certificado emitido pelo sistema de inscrição. A presença será computada no decorrer do curso.
+
 # Bibliografia
 
-[1] Rossi, R. G. (2016). Classificaçao automática de textos por meio de aprendizado de máquina baseado em redes (Doctoral dissertation, Universidade de São Paulo).
+[1] Wu, Z., Pan, S., Chen, F., Long, G., Zhang, C., & Philip, S. Y. (2020). A comprehensive survey on graph neural networks. IEEE transactions on neural networks and learning systems, 32(1), 4-24.
 
-[2] Wu, Z., Pan, S., Chen, F., Long, G., Zhang, C., & Philip, S. Y. (2020). A comprehensive survey on graph neural networks. IEEE transactions on neural networks and learning systems, 32(1), 4-24.
+[2] Silva, A. C. M. D., Gôlo, M. P. S., & Marcacini, R. M. (2022). Unsupervised heterogeneous graph neural network for hit song prediction through one-class learning. Anais do X Symposium on Knowledge Discovery, Mining and Learning.
 
-[3] Silva, A. C. M. D., Gôlo, M. P. S., & Marcacini, R. M. (2022). Unsupervised heterogeneous graph neural network for hit song prediction through one-class learning. Anais do X Symposium on Knowledge Discovery, Mining and Learning.
+[3] C. Shi, Heterogeneous Graph Neural Networks. Singapore: Springer Singapore, 2022.
 
-[4] C. Shi, Heterogeneous Graph Neural Networks. Singapore: Springer Singapore, 2022.
+[4] CHEN, F.; WANG, Y.-C.; WANG, B.; KUO, C.-C. J. Graph representation learning: a survey. APSIPA Transactions on Signal and Information Processing, Cambridge University Press. 2020.
 
-[5] CHEN, F.; WANG, Y.-C.; WANG, B.; KUO, C.-C. J. Graph representation learning: a survey. APSIPA Transactions on Signal and Information Processing, Cambridge University Press. 2020.
-
-[6] CAI, H.; ZHENG, V. W.; CHANG, K. A comprehensive survey of graph embedding: Problems, techniques, and applications. IEEE Transactions on Knowledge & Data Engineering. 2018.
+[5] CAI, H.; ZHENG, V. W.; CHANG, K. A comprehensive survey of graph embedding: Problems, techniques, and applications. IEEE Transactions on Knowledge & Data Engineering. 2018.
