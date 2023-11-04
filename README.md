@@ -57,7 +57,7 @@ Prover aos estudantes conhecimento dos conceitos básicos da área de modelagem 
 
 # Inscrição (até 18/11/23)
 
-link para inscrição.
+[link para inscrição.](https://bit.ly/inscricaognn)
 
 # Certificado
 
