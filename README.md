@@ -12,11 +12,13 @@ Seguem algumas indicações de materiais que podem ser estudados até o curso:
 - [Aula sobre redes neurais](https://www.youtube.com/watch?v=rpnEdkvSYj4)
 - [Curso sobre aprendizado de máquina](https://www.youtube.com/watch?v=l2ALoe6Yfss&list=PL-K8PmZILhr0w0FH1gZrknk9CLRqXKo-Z&index=1) (focar nos conceitos básicos, tipos de dados, classificação, regressão e agrupamento)
 - [Aula sobre programação em Python](https://www.youtube.com/watch?v=CEkHlfVH_Ew) (do zero ao básico de POO; conteúdo imprescindível para compreensão do curso)
+- Representação no Espaço Vetorial[Link 1](https://www.youtube.com/watch?v=hivD34b-W5w) [Link 2](https://www.youtube.com/watch?v=OtQr5NkRPdg)
+- [Introdução às Medidas de Proximidade](https://www.youtube.com/watch?v=yV26S9Zsq1s)
 
 # Organização
 
 Este curso é oferecido pelo Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo - ICMC/USP, com organização do Laboratório de Inteligência Computacional - LABIC.
-O responsável pelo curso é o professor Doutor do ICMC/USP **Ricardo Marcondes Marcacini**. Os ministrantes serão seus alunos de Doutorado Marcos Paulo Silva Gôlo e Angelo Cesar Mendes da Silva. 
+Os ministrantes serão os alunos de doutorado **Marcos Paulo Silva Gôlo** e **Angelo Cesar Mendes da Silva**, com acompanhamento do professor Doutor do ICMC/USP **Ricardo Marcondes Marcacini**. 
 
 # Ministrantes
 
@@ -59,11 +61,13 @@ Prover aos estudantes conhecimento dos conceitos básicos da área de modelagem 
 
 [link para inscrição.](https://bit.ly/inscricaognn)
 
+*A realização da inscrição não garante a presença no curso. A efetivação da inscrição está relacionada ao número de vagas disponíveis. A confirmação será feita após o período de inscrição e via email.
+
 # Certificado
 
-O inscrito deverá participar no mínimo 75% da carga horária do curso para ter direito ao certificado emitido pelo sistema de inscrição. A presença será computada no decorrer do curso.
+O inscrito deverá participar de no mínimo 75% da carga horária do curso para ter direito ao certificado emitido pelo sistema de inscrição. A presença será computada no decorrer do curso.
 
-# Bibliografia
+# Bibliografia e material de apoio
 
 [1] Wu, Z., Pan, S., Chen, F., Long, G., Zhang, C., & Philip, S. Y. (2020). A comprehensive survey on graph neural networks. IEEE transactions on neural networks and learning systems, 32(1), 4-24.
 
