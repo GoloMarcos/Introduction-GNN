@@ -55,7 +55,7 @@ Prover aos estudantes conhecimento dos conceitos básicos da área de modelagem 
 - **Parte teórica 3:** Graph Neural Networks
 - **Parte teórica 4:** Contextos de exploração (Aplicações)
 - **Parte prática 1:** Reconhecimento de emoções em músicas utilizando Graph Neural Networks
-- **Parte prática 2:** Graph Neural Networks não supervisionada para detectar hit-songs
+- **Parte prática 2:** Graph Neural Networks para detectção de notícias falsas por meio do Aprendizado de Uma Classe
 
 # Inscrição (até 18/11/23)
 
