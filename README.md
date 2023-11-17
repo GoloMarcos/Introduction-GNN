@@ -78,3 +78,5 @@ O inscrito deverá participar de no mínimo 75% da carga horária do curso para 
 [4] CHEN, F.; WANG, Y.-C.; WANG, B.; KUO, C.-C. J. Graph representation learning: a survey. APSIPA Transactions on Signal and Information Processing, Cambridge University Press. 2020.
 
 [5] CAI, H.; ZHENG, V. W.; CHANG, K. A comprehensive survey of graph embedding: Problems, techniques, and applications. IEEE Transactions on Knowledge & Data Engineering. 2018.
+
+[6] Gôlo, Marcos Paulo Silva, et al. "On the Use of Early Fusion Operators on Heterogeneous Graph Neural Networks for One-Class Learning." Proceedings of the 29th Brazilian Symposium on Multimedia and the Web. 2023.
