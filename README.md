@@ -59,7 +59,7 @@ Prover aos estudantes conhecimento dos conceitos básicos da área de modelagem 
 
 # Inscrição (até 18/11/23)
 
-[link para inscrição.](https://bit.ly/inscricaognn)
+**Inscrições Encerradas**
 
 *A realização da inscrição não garante a presença no curso. A efetivação da inscrição está relacionada ao número de vagas disponíveis. A confirmação será feita após o período de inscrição e via email.
 
