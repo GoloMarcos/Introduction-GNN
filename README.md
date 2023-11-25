@@ -63,6 +63,11 @@ Prover aos estudantes conhecimento dos conceitos básicos da área de modelagem 
 
 *A realização da inscrição não garante a presença no curso. A efetivação da inscrição está relacionada ao número de vagas disponíveis. A confirmação será feita após o período de inscrição e via email.
 
+# Biblioteca Para GNNs alto nível
+ - Biblioteca: https://scikit-network.readthedocs.io/en/latest/
+ - Documentação: https://scikit-network.readthedocs.io/en/latest/reference/gnn.html
+ - Tutorial: https://scikit-network.readthedocs.io/en/latest/tutorials/gnn/gnn_classifier.html#GCN
+
 # Certificado
 
 O inscrito deverá participar de no mínimo 75% da carga horária do curso para ter direito ao certificado emitido pelo sistema de inscrição. A presença será computada no decorrer do curso.
