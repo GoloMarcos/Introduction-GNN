@@ -3,6 +3,9 @@
 # Avaliação
  - https://forms.gle/zswvXjSU3wad8Dhu9
 
+# Gravação
+- https://www.youtube.com/watch?v=FXQg7Ad56F0
+
 # Resumo
 
 O uso de redes neurais em grafos tem sido explorado em aplicações de aprendizado de máquina em diversas áreas como análise de redes sociais, química computacional, recomendações personalizadas e processamento de língua natural. A modelagem de dados sobre grafos é justificada pela possibilidade de utilizar múltiplas modalidades de características para construir uma representação com mais informação sobre dados, bem como incorporar informações sobre os relacionamentos dos dados na própria representação. Neste curso, apresentaremos técnicas para modelagem de dados estruturados e não estruturados sobre grafos, discutiremos sobre os benefícios deste tipo de modelagem e suas aplicações em aprendizado de máquina. Serão introduzidos os conceitos das GNNs, algumas variações como as GCNs e GATs, e demonstração em aplicações práticas que reproduzirão os tópicos abordados no curso.
